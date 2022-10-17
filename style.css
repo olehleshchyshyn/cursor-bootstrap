@@ -1,0 +1,249 @@
+#start {
+    display: inline-block;
+    height: 50px;
+    width: 100%;
+}
+.line {
+    width: 100%;
+    height: 1px;
+    color: #7a7a7a;
+    margin-top: 50px;
+}
+.esas img {
+    position: absolute;
+    margin-left: 440px;
+    margin-top: 13px;
+    display: inline-block;
+    cursor: pointer;
+}
+.esas input {
+    width: 216px;
+    height: 29px;
+    position: absolute;
+    border-radius: 3px;
+    margin-left: 850px;
+    margin-top: 9px;
+    align-items: center;
+    text-align: center;
+}
+.icon {
+    position: absolute;
+    margin-left: 1250px;
+    margin-top: 13px;
+}
+.icon1 {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 1295px;
+}
+.icon2 {
+    position: absolute;
+    margin-top: 13px;
+    margin-left: 1340px;
+}
+.icon3 {
+    position: absolute;
+    margin-left: 1380px;
+    margin-top: 13px;
+}
+.icon4 {
+    position: absolute;
+    margin-left: 1420px;
+    margin-top: 13px;
+}
+.icon5 img {
+    position: absolute;
+    margin-left: 1310px;
+    margin-top: 10px;
+}
+.icon5 h1 {
+    position: absolute;
+    font-size: 12px;
+    margin-left: 1315px;
+    margin-top: 11px;
+    color: rgb(255, 255, 255);
+}
+#cent {
+    display: grid;
+    width: 910px;
+    height: 446px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+}
+.title img {
+    height: 154px;
+    width: 154px;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: 10px;
+    background-color: black;
+}
+.title h1 {
+    font-size: 26px;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 240px;
+}
+.acer a {
+    padding: 1px;
+}
+.btn-lg {
+    font-size: 14px;
+    margin-top: 15px;
+    width: 97px;
+    height: 29px;
+    margin-left: 349px;
+    border-radius: 3px;
+}  
+.btn-down {
+    position: absolute;
+    width: 33px;
+    height: 29px;
+    margin-left: 460px;
+    margin-top: -57px;
+}
+.point i {
+    margin-top: -20px;
+    margin-left: 10px;
+    position: absolute;
+}
+.info h1 {
+    position: absolute;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 40px;
+    margin-left: -252px;
+}
+.info h2 {
+    position: absolute;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 40px;
+    margin-left: -145px;
+}
+.info h3 {
+    position: absolute;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 40px;
+    margin-left: -10px;
+}
+.info h4 {
+    position: absolute;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 110px;
+    margin-left: -252px;
+} 
+.info P {
+    position: absolute;
+    margin-top: 140px;
+    margin-left: -252px;
+    font-size: 17px;
+    line-height: 24px;
+    width: 531px;
+    height: 51px;
+}
+.info h5 {
+    margin-left: -252px;
+    position: absolute;
+    font-size: 17px;
+    line-height: 21px;
+    margin-top: 195px;
+    color: #133768;
+}
+.photo1 img {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 270px;
+    margin-left: -490px;
+    cursor: pointer;
+}
+.photo1 h1 {
+    position: absolute;
+    margin-top: 360px;
+    margin-left: -475px;
+    font-size: 14px;
+}
+.photo2 img {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 270px;
+    margin-left: -373px;
+    cursor: pointer;
+}
+.photo2 h1 {
+    position: absolute;
+    margin-top: 360px;
+    margin-left: -355px;
+    font-size: 14px;
+}
+.photo3 img {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-top: 270px;
+    margin-left: -255px;
+    cursor: pointer;
+}
+.photo3 h1 {
+    position: absolute;
+    margin-top: 360px;
+    margin-left: -235px;
+    font-size: 14px;
+}
+#last {
+    display: inline-block;
+    width: 910px;
+    height: 1875px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-top: 410px;
+    justify-content: center;
+}
+.qwe {
+    position: absolute;
+    margin-top: -31px;
+    margin-left: 350px;
+}
+.post img {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.post h1 {
+    position: absolute;
+    margin-left: 370px;
+    margin-top: 16px;
+    font-size: 15px;
+}
+.tag img {
+    margin-left: 470px;
+    margin-top: 20px;
+}
+.tag h1 {
+    margin-left: 490px;
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+.box img {
+    width: 290px;
+    height: 290px;
+    background-color: #7a7a7a;
+    display: inline-block;
+    margin: 5px;
+}
+.box {
+    width: 290px;
+    height: 290px;
+    display: inline-block;
+    margin: 5px;
+}
